@@ -22,6 +22,8 @@ This repo contains the Arduino sketch that powers two modes:
 - 5V power supply (high-current; 20A recommended for full brightness)
 
 ## Wiring (Arduino Pins)
+<img width="1052" height="607" alt="image" src="https://github.com/user-attachments/assets/5bd7a1d9-70c4-4d95-ac2a-2734e44bb870" />
+
 LED Matrix
 - Data in: D13
 - Power: 5V external supply
